@@ -40,10 +40,3 @@ If the plugin works correctly you will see the cached files in storage/runtime/h
 **A:** Only related cache files will be deleted after an update.
 **Q: The installation fails and plugin does not work. **  
 **A:** Make sure that the folder `storage/runtime/htmlcache` is created and there are read/write permissions.
-
-
-## Credits
-
-Made with ❤️ by Bolden – free to use and feedback is much appreciated!
-
-Based – but rewritten, on the HTML Cache by CraftAPI in 2016
