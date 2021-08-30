@@ -9,7 +9,7 @@
  * @author Klearchos Douvantzis
  */
 
-namespace bolden\htmlcache\records;
+namespace effectivesoft\htmlcache\records;
 
 use craft\db\ActiveRecord;
 

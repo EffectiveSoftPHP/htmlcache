@@ -9,7 +9,7 @@
  * @author Klearchos Douvantzis
  */
 
-namespace bolden\htmlcache\migrations;
+namespace effectivesoft\htmlcache\migrations;
 
 use Craft;
 use craft\db\Migration;

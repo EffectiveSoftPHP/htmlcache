@@ -9,7 +9,7 @@
  * @author Klearchos Douvantzis
  */
 
-namespace bolden\htmlcache\models;
+namespace effectivesoft\htmlcache\models;
 
 
 class Settings extends \craft\base\Model

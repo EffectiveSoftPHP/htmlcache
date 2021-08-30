@@ -10,7 +10,7 @@
  * @author Klearchos Douvantzis
  */
 
-namespace bolden\htmlcache\services;
+namespace effectivesoft\htmlcache\services;
 
 use Craft;
 use craft\base\Component;

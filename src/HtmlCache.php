@@ -10,7 +10,7 @@
  * @author Klearchos Douvantzis
  */
 
-namespace bolden\htmlcache;
+namespace effectivesoft\htmlcache;
 
 
 use Craft;
