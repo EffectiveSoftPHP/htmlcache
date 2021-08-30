@@ -23,16 +23,16 @@ use craft\web\UrlManager;
 use craft\helpers\FileHelper;
 use craft\helpers\UrlHelper;
 use craft\events\RegisterUrlRulesEvent;
-use bolden\htmlcache\services\HtmlcacheService;
-use bolden\htmlcache\models\Settings;
+use effectivesoft\htmlcache\services\HtmlcacheService;
+use effectivesoft\htmlcache\models\Settings;
 
 use yii\base\Event;
 use craft\elements\db\ElementQuery;
 use craft\elements\Category;
 use craft\elements\Entry;
 use craft\elements\Asset;
-use bolden\htmlcache\records\HtmlCacheCache;
-use bolden\htmlcache\records\HtmlCacheElement;
+use effectivesoft\htmlcache\records\HtmlCacheCache;
+use effectivesoft\htmlcache\records\HtmlCacheElement;
 use craft\elements\User;
 use craft\elements\GlobalSet;
 

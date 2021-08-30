@@ -15,14 +15,14 @@ namespace effectivesoft\htmlcache\services;
 use Craft;
 use craft\base\Component;
 use craft\helpers\FileHelper;
-use bolden\htmlcache\assets\HtmlcacheAssets;
-use bolden\htmlcache\HtmlCache;
+use effectivesoft\htmlcache\assets\HtmlcacheAssets;
+use effectivesoft\htmlcache\HtmlCache;
 use craft\elements\Entry;
 use craft\services\Elements;
 use yii\base\Event;
 use craft\elements\db\ElementQuery;
-use bolden\htmlcache\records\HtmlCacheCache;
-use bolden\htmlcache\records\HtmlCacheElement;
+use effectivesoft\htmlcache\records\HtmlCacheCache;
+use effectivesoft\htmlcache\records\HtmlCacheElement;
 
 /**
  * HtmlCache Service
